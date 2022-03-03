@@ -11,6 +11,7 @@ part0(osa0):
 
 part1(osa1)
     01 - Tasks 1.1-1.2
+    02 - Part 1c
 ```
 
 ## Author
