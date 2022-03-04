@@ -13,6 +13,7 @@ part1(osa1)
     01 - Tasks 1.1-1.2
     02 - Part 1c
     03 - Part 1d task 1.11*: unicafe step6
+    04 - 1.14*: anekdootit step3
 ```
 
 ## Author

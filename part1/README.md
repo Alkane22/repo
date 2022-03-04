@@ -7,6 +7,7 @@ tasks 1c:
 
 tasks 1d:
     03 - 1.11*: unicafe step6
+    04 - 1.14*: anekdootit step3
 ```
 
 # 1a,1b(1.1-1.5)
@@ -17,3 +18,6 @@ tasks 1d:
 
 # 1d(1.11)
 ![](https://github.com/Alkane22/repo/blob/master/part1/03/03.png?raw=true)
+
+# 1d(1.14)
+![](https://github.com/Alkane22/repo/blob/master/part1/04/04.png?raw=true)
