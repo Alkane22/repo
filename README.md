@@ -14,6 +14,9 @@ part1(osa1)
     02 - Part 1c
     03 - Part 1d task 1.11*: unicafe step6
     04 - 1.14*: anekdootit step3
+
+part2(osa2)
+    01 - part 2a tasks 2.1-2.5: kurssitiedot step6-step9
 ```
 
 ## Author
