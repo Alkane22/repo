@@ -8,6 +8,9 @@ tasks 2b:
 tasks 2c:
     03 - Task 2.11: puhelinluettelo step6.
     04 - 2.14*: maiden tiedot, step3
+
+tasks 2d:
+    05 - 2.18*: puhelinluettelo step10
 ```
 
 # 2a(2.1-2.5)
@@ -24,3 +27,7 @@ tasks 2c:
 
 # 2c(2.14)
 ![](https://github.com/Alkane22/repo/blob/master/part2/04/04-2.png?raw=true)
+
+# 2d(2.18)
+![](https://github.com/Alkane22/repo/blob/master/part2/05/05.png?raw=true)
+![](https://github.com/Alkane22/repo/blob/master/part2/05/05a.png?raw=true)
