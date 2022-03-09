@@ -19,7 +19,7 @@ part2(osa2)
     01 - part 2a tasks 2.1-2.5: kurssitiedot step6-step9
     02 - part 2b tasks 2.6.-2.10 puhelinluettelo step1-step5?
     03 - part 2c task 2.11: puhelinluettelo step6.
-    04 - part 2c task 2.13*: maiden tiedot, step2
+    04 - part 2c 2.14*: maiden tiedot, step3
 ```
 
 ## Author
