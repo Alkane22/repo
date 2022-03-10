@@ -20,7 +20,7 @@ part2(osa2)
     02 - part 2b task 2.10 puhelinluettelo step5
     03 - part 2c task 2.11: puhelinluettelo step6
     04 - part 2c task 2.14*: maiden tiedot, step3
-    05 - part 2d task 2.18*: puhelinluettelo step10
+    05 - part 2d task 2.20*: puhelinluettelo step12
 ```
 
 ## Author

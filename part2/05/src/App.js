@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react'
 import bookService from './services/book'
+import Notification from './components/alert'
 
 const App = () => {
+    const [errorMessage, setErrorMessage] = useState([null, 'error'])
 
     const [persons, setPersons] = useState([
         { name: 'test1', number: '112' },
@@ -60,7 +62,11 @@ const App = () => {
                 bookService
                     .update(persons.findIndex(dude => dude.name === newName) + 1, nameObj)
                     .then(result => {
-                        setPersons(persons.map(person =>  person.name !== newName ? person : result))
+                        setPersons(persons.map(person => person.name !== newName ? person : result))
+                        message('Changed ' + newName + ' number.', 'message')
+                    })
+                    .catch(error => {
+                        message('Information of ' + newName + ' has already been removed from the server', 'error')
                     })
             }
         } else {
@@ -72,6 +78,7 @@ const App = () => {
                 .create(nameObj)
                 .then(resp => {
                     setPersons(persons.concat(resp))
+                    message('Added ' + newName, 'message')
                 })
             //setPersons(persons.concat(nameObj))
         }
@@ -87,13 +94,22 @@ const App = () => {
                 .deleteNum(personIn.id)
                 .then(resp => {
                     setPersons(persons.filter(person => person.id !== personIn.id))
+                    message('Deleted ' + personIn.name, 'error')
                 })
         }
+    }
+
+    const message = (text, style) => {
+        setErrorMessage([text, style])
+        setTimeout(() => {
+            setErrorMessage([null, style])
+        }, 5000)
     }
 
     return (
         <div>
             <h2>Phone book</h2>
+            <Notification message={errorMessage[0]} type={errorMessage[1]}/>
             <div>
                 filter shown with a <input value={filter} onChange={handleFilterChange} />
             </div>
