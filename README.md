@@ -21,6 +21,9 @@ part2(osa2)
     03 - part 2c task 2.11: puhelinluettelo step6
     04 - part 2c task 2.14*: maiden tiedot, step3
     05 - part 2d task 2.20*: puhelinluettelo step12
+
+part3(osa3)
+    01 - part 3a task 3.6: puhelinluettelon backend step6
 ```
 
 ## Author
