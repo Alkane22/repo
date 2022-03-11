@@ -12,3 +12,5 @@
 !['add missing info'](https://github.com/Alkane22/repo/blob/master/part3/01/01addMissing.png?raw=true)
 
 !['delete'](https://github.com/Alkane22/repo/blob/master/part3/01/01del.png?raw=true)
+
+!['morgan'](https://github.com/Alkane22/repo/blob/master/part3/01/01morgan.png?raw=true)
