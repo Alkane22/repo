@@ -1,6 +1,6 @@
 ```
 tasks 3a:
-    01 - Task's/Tehtävät 3.6: puhelinluettelon backend step6
+    01 - Task's/Tehtävät 3.6: puhelinluettelon backend step8
 
 ```
 

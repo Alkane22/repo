@@ -23,7 +23,13 @@ part2(osa2)
     05 - part 2d task 2.20*: puhelinluettelo step12
 
 part3(osa3)
-    01 - part 3a task 3.6: puhelinluettelon backend step6
+    01 - part 3a task 3.6: puhelinluettelon backend step8
+
+part4(osa4)
+    [Bloglist backend](https://github.com/Alkane22/Puhelin-Backend)  
+
+part5(osa5)
+    [Bloglist frontend](https://github.com/Alkane22/BlogiFront) 
 ```
 
 ## Author
