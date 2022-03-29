@@ -25,7 +25,7 @@
 - 01 - part 3a task 3.6: puhelinluettelon backend step8
 
 ## part4(osa4)   
-- [Bloglist backend](https://github.com/Alkane22/Puhelin-Backend)  
+- [Bloglist backend](hhttps://github.com/Alkane22/Blogilista)  
 
 ## part5(osa5)  
 - [Bloglist frontend](https://github.com/Alkane22/BlogiFront) 
