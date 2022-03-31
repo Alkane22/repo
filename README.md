@@ -30,6 +30,8 @@
 ## part5(osa5)  
 - [Bloglist frontend](https://github.com/Alkane22/BlogiFront) 
 
+## part6(osa6)
+- part 6a task 6.2 [Unicafe revisited](https://github.com/Alkane22/UnicafeRedux) 
 
 ## Author
 ###### Aleksei Nesterinen.
