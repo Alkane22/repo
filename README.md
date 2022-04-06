@@ -34,5 +34,8 @@
 - part 6a task 6.2 [Unicafe revisited](https://github.com/Alkane22/UnicafeRedux) 
 - part 6a task 6.8 [Anekdootit](https://github.com/Alkane22/AnekdootitRedux) 
 
+## part7(osa7)
+- part 7a task 7.3 [Routed Anecdotes](https://github.com/Alkane22/AnekdootitRouted)
+
 ## Author
 ###### Aleksei Nesterinen.
