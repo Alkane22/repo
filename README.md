@@ -36,6 +36,7 @@
 
 ## part7(osa7)
 - part 7a task 7.3 [Routed Anecdotes](https://github.com/Alkane22/AnekdootitRouted)
+- part 7b task 7.7 [Country hook](https://github.com/Alkane22/AnekdootitRouted)
 
 ## Author
 ###### Aleksei Nesterinen.
