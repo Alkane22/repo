@@ -37,7 +37,7 @@
 ## part7(osa7)
 - part 7a task 7.3 [Routed Anecdotes](https://github.com/Alkane22/AnekdootitRouted)
 - part 7b task 7.7 [Country hook](https://github.com/Alkane22/repo/tree/master/part7/country-hook)
-- part 7b task 7.8 [Ultimate hooks](https://github.com/Alkane22/repo/tree/master/part7/ultimate-hooks)
+- part 7b task 7.8 [Ultimate hooks](https://github.com/Alkane22/repo/tree/master/part7/ultimate-hook)
 
 ## Author
 ###### Aleksei Nesterinen.
